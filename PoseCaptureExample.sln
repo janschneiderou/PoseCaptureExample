@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoseCaptureExample", "PoseCaptureExample\PoseCaptureExample.csproj", "{3299215E-D1E5-4593-91BA-F84226569724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3299215E-D1E5-4593-91BA-F84226569724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3299215E-D1E5-4593-91BA-F84226569724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3299215E-D1E5-4593-91BA-F84226569724}.Debug|x64.ActiveCfg = Debug|x64
+		{3299215E-D1E5-4593-91BA-F84226569724}.Debug|x64.Build.0 = Debug|x64
+		{3299215E-D1E5-4593-91BA-F84226569724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3299215E-D1E5-4593-91BA-F84226569724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3299215E-D1E5-4593-91BA-F84226569724}.Release|x64.ActiveCfg = Release|x64
+		{3299215E-D1E5-4593-91BA-F84226569724}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0370A886-23ED-4A60-BB0C-18EE5A6C855E}
+	EndGlobalSection
+EndGlobal
